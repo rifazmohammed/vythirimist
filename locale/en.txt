@@ -1,0 +1,68 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Vythiri Mist
+
+## Skin
+
+### Tooltip
+IconButton_069AFCF9_1C9E_98F8_41AA_EDF2EF9939E8.toolTip = Show all buttons
+IconButton_11F8C692_1C82_6B0B_41B2_28931AB2B43D.toolTip = Previous panorama
+IconButton_128B7B91_1C86_7909_41B8_9320D8E0D421.toolTip = Next panorama
+IconButton_128BCB90_1C86_7907_41B3_46B5B135C181.toolTip = Hide all buttons
+IconButton_1297FF98_1C82_9907_41AD_A09E1EA44354.toolTip = Panorama List
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+IconButton_3BD6FE66_1C9E_9B08_41AE_65363919CAD0.toolTip = Previous panorama
+IconButton_3BF02F26_1C9E_990B_419B_60D4788D76C9.toolTip = Next panorama
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1.toolTip = Photo Album
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1_mobile.toolTip = Photo Album
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801.toolTip = Visit website
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801_mobile.toolTip = Visit website
+
+## Media
+
+### Title
+album_B1771C5B_BC18_AFD2_41CE_10DBE84607B9.label = Vythiri Mist
+album_B1771C5B_BC18_AFD2_41CE_10DBE84607B9_0.label = DJI_0061
+album_B1771C5B_BC18_AFD2_41CE_10DBE84607B9_1.label = DJI_0063
+album_B1771C5B_BC18_AFD2_41CE_10DBE84607B9_10.label = DJI_0217
+album_B1771C5B_BC18_AFD2_41CE_10DBE84607B9_11.label = DJI_0226
+album_B1771C5B_BC18_AFD2_41CE_10DBE84607B9_13.label = DJI_0232
+album_B1771C5B_BC18_AFD2_41CE_10DBE84607B9_14.label = DJI_0249
+album_B1771C5B_BC18_AFD2_41CE_10DBE84607B9_15.label = DJI_0255
+album_B1771C5B_BC18_AFD2_41CE_10DBE84607B9_2.label = DJI_0069
+album_B1771C5B_BC18_AFD2_41CE_10DBE84607B9_3.label = DJI_0078
+album_B1771C5B_BC18_AFD2_41CE_10DBE84607B9_4.label = DJI_0129
+album_B1771C5B_BC18_AFD2_41CE_10DBE84607B9_5.label = DJI_0143
+album_B1771C5B_BC18_AFD2_41CE_10DBE84607B9_6.label = DJI_0151
+panorama_A0231D3B_AA70_3016_41E4_A26A8862CCE5.label = Swimming Pool
+panorama_A03D425C_AA70_1012_4176_35C93E404270.label = Mist Habitat
+panorama_A03D5413_AA70_1016_41E0_4139EBCAA582.label = Living Room - Mist Haven
+panorama_A03D9FD6_AA70_101E_41CD_653CC38B0259.label = Washroom - Mist Habitat
+panorama_A03DB226_AA70_303E_41DD_584CC381594D.label = Facade - Vythiri Mist
+panorama_A03DC85B_AA70_1016_41B9_7C95CA96F8D4.label = Washroom - Mist Haven
+panorama_A03DF5F5_AA70_7012_41C7_76CB05F9BDB3.label = Mist Haven
+panorama_A03E6AA7_AA70_103E_41E5_4DD144BA1804.label = Conference Hall
+panorama_A03E83BC_AA70_7012_41E0_69429F806CA9.label = Mist Villa
+panorama_A03E8846_AA70_107E_41B8_8EB9570AB81B.label = High Ridge Restaurant
+panorama_A03E98A6_AA70_303E_41CB_202D2B55715F.label = Spa
+panorama_A03EAD1D_AA73_F012_41D0_254018326C34.label = Mist Habitat
+panorama_A03EBD85_AA70_10F2_41E5_07D824BA8DC0.label = Mist Villa
+panorama_A03ECA7A_AA70_3016_41DA_21C85A79ADD0.label = Washroom - Mist Villa
+panorama_A03ED0B1_AA70_1012_41D5_400302DD99EC.label = Mist Villa
+panorama_A03EEA18_AA70_3012_41C3_A34025A7D305.label = Bedroom - Mist Haven
+panorama_A03EFB1E_AA70_100E_41DF_7A8242F68BAB.label = Balcony - Mist Haven
+panorama_A03EFCE9_AA70_1032_41DC_9956D768BAD6.label = Reception & Lobby
+panorama_A14D8CFE_AA70_100E_41D5_783CB2D1DFF8.label = Swimming Pool
+panorama_BDD68F48_AAB0_3072_419A_A402BB4341CF.label = Mist Villa
+
+## Action
+
+### URL
+LinkBehaviour_AB2615D2_BE75_6AB9_41D6_4B86ED01FE33.source = http://www.vythirimist.com
+LinkBehaviour_AE3BF7BD_BE15_56EB_41E6_DDD23BB66254.source = http://www.vythirimist.com
